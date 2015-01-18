@@ -25,5 +25,4 @@ public class Mouse
 		user32.PostMessage(hwnd, 513, new WPARAM(1L), new LPARAM(v));
 		user32.PostMessage(hwnd, 514, new WPARAM(0L), new LPARAM(v));
 	}
-
 }
