@@ -8,7 +8,8 @@ import javax.imageio.ImageIO;
 /**
  * @ClassName: MemoryImage
  * @Description: 图片处理类
- * @author luke liqianglau@outlook.com
+ * @author Vasquez
+ * @contact liqianglau@outlook.com
  * @date 2014年12月28日 下午2:23:01
  * 
  */

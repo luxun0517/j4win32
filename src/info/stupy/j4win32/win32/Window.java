@@ -13,7 +13,8 @@ import com.sun.jna.platform.win32.WinDef.WPARAM;
 /**
  * @ClassName: Window
  * @Description: Win32中操作窗口的类，这里使用了两种User32库，一种是Jna的，因为Jna的内容不够，所以还自己补充了一些在ownlib包中
- * @author luke liqianglau@outlook.com
+ * @author vasquez
+ * @contact liqianglau@outlook.com
  * @date 2014年12月28日 下午11:15:52
  */
 public class Window

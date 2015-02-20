@@ -7,6 +7,10 @@ import java.awt.event.MouseEvent;
 import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 
+/**
+ * @author Vasquez
+ * @contact liqianglau@outlook.com
+ */
 public class Panel extends JPanel
 {
 	private static final long serialVersionUID = 686655302860830134L;

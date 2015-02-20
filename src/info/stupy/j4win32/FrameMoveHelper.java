@@ -6,6 +6,10 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseMotionAdapter;
 import javax.swing.JFrame;
 
+/**
+ * @author Vasquez
+ * @contact liqianglau@outlook.com
+ */
 public class FrameMoveHelper {
 
 	private Position start;

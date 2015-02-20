@@ -9,6 +9,10 @@ import java.io.IOException;
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
 
+/**
+ * @author Vasquez
+ * @contact liqianglau@outlook.com
+ */
 public class Frame extends JFrame
 {
 	private static final long serialVersionUID = 2998107863635690131L;

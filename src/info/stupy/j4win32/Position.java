@@ -1,5 +1,9 @@
 package info.stupy.j4win32;
 
+/**
+ * @author Vasquez
+ * @contact liqianglau@outlook.com
+ */
 public class Position
 {
 

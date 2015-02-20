@@ -5,6 +5,10 @@ import com.sun.jna.platform.win32.WinDef.HWND;
 import com.sun.jna.platform.win32.WinDef.LPARAM;
 import com.sun.jna.platform.win32.WinDef.WPARAM;
 
+/**
+ * @author Vasquez
+ * @contact liqianglau@outlook.com
+ */
 public class Mouse
 {
 

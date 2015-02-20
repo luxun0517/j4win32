@@ -7,9 +7,8 @@ import java.awt.image.BufferedImage;
 import com.sun.jna.platform.win32.WinDef.HWND;
 
 /**
- * @author 百度java吧 神.
- * 
- *         找茬 游戏窗口1024 * 738
+ * @author Vasquez
+ * @contact liqianglau@outlook.com
  */
 public class ZhaoCha
 {
